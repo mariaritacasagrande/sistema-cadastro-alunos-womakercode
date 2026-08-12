@@ -97,8 +97,29 @@ class Program
                         break;
 
                     case 2:
-                        Console.WriteLine("-> Executando: Buscar aluno...");
-                        // Adicione sua lógica aqui
+                        Console.WriteLine($"Digite o nome do Aluno que deseja encontrar:");
+                        string? nomePesquisa = Console.ReadLine();
+
+                        bool encontrado = false;
+                        int posicao = -1;
+                        for (int i = 0; i < nomes.Length; i++)
+                        {
+                            if (nomes[i].Trim().ToLower().Replace(" ", "") == nomePesquisa?.Trim().ToLower().Replace(" ", ""))
+                            {
+                                encontrado = true;
+                                posicao = i;
+                                break;
+                            }
+                        }
+                        if (encontrado == true)
+                        {
+                            Console.WriteLine($"Nome: {nomes[posicao]} | Idade: {idades[posicao]} | Nota 1:{nota1[posicao]} | Nota 2: {nota2[posicao]} |  Média: {medias[posicao]}");
+                        }
+                        else
+                        {
+                            Console.WriteLine("Aluno não encontrado.");
+                        }
+                        Console.ReadKey();
                         break;
 
                     case 3:
