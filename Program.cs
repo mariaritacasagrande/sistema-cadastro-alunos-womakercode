@@ -138,8 +138,21 @@ class Program
                                 break;
 
                     case 4:
-                        Console.WriteLine("-> Executando: Exibir média da turma...");
-                        // Adicione sua lógica aqui
+                        Console.WriteLine("=== MÉDIA DA TURMA ===\n");
+                        if (totalAlunos > 0)
+                        {
+                            double somaMedias = 0;
+                            for (int i = 0; i < totalAlunos; i++)
+                            {
+                                somaMedias += medias[i];
+                            }
+                            double mediaTurma = somaMedias / totalAlunos;
+                            Console.WriteLine($"Média da turma: {mediaTurma:F2}");
+                        }
+                        else
+                        {
+                            Console.WriteLine("Nenhum aluno cadastrado para calcular a média.");
+                        }
                         break;
 
                     case 0:
