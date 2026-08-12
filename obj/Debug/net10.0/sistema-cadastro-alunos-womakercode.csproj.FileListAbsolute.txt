@@ -1,0 +1,15 @@
+C:\Users\dell\source\repos\sistema-cadastro-alunos-womakercode\bin\Debug\net10.0\sistema-cadastro-alunos-womakercode.exe
+C:\Users\dell\source\repos\sistema-cadastro-alunos-womakercode\bin\Debug\net10.0\sistema-cadastro-alunos-womakercode.deps.json
+C:\Users\dell\source\repos\sistema-cadastro-alunos-womakercode\bin\Debug\net10.0\sistema-cadastro-alunos-womakercode.runtimeconfig.json
+C:\Users\dell\source\repos\sistema-cadastro-alunos-womakercode\bin\Debug\net10.0\sistema-cadastro-alunos-womakercode.dll
+C:\Users\dell\source\repos\sistema-cadastro-alunos-womakercode\bin\Debug\net10.0\sistema-cadastro-alunos-womakercode.pdb
+C:\Users\dell\source\repos\sistema-cadastro-alunos-womakercode\obj\Debug\net10.0\sistema-cadastro-alunos-womakercode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\sistema-cadastro-alunos-womakercode\obj\Debug\net10.0\sistema-cadastro-alunos-womakercode.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\sistema-cadastro-alunos-womakercode\obj\Debug\net10.0\sistema-cadastro-alunos-womakercode.AssemblyInfo.cs
+C:\Users\dell\source\repos\sistema-cadastro-alunos-womakercode\obj\Debug\net10.0\sistema-cadastro-alunos-womakercode.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\sistema-cadastro-alunos-womakercode\obj\Debug\net10.0\sistema-cadastro-alunos-womakercode.sourcelink.json
+C:\Users\dell\source\repos\sistema-cadastro-alunos-womakercode\obj\Debug\net10.0\sistema-cadastro-alunos-womakercode.dll
+C:\Users\dell\source\repos\sistema-cadastro-alunos-womakercode\obj\Debug\net10.0\refint\sistema-cadastro-alunos-womakercode.dll
+C:\Users\dell\source\repos\sistema-cadastro-alunos-womakercode\obj\Debug\net10.0\sistema-cadastro-alunos-womakercode.pdb
+C:\Users\dell\source\repos\sistema-cadastro-alunos-womakercode\obj\Debug\net10.0\sistema-cadastro-alunos-womakercode.genruntimeconfig.cache
+C:\Users\dell\source\repos\sistema-cadastro-alunos-womakercode\obj\Debug\net10.0\ref\sistema-cadastro-alunos-womakercode.dll
