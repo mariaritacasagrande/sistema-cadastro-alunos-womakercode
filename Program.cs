@@ -102,7 +102,7 @@ class Program
 
                         bool encontrado = false;
                         int posicao = -1;
-                        for (int i = 0; i < nomes.Length; i++)
+                        for (int i = 0; i < totalAlunos; i++)
                         {
                             if (nomes[i].Trim().ToLower().Replace(" ", "") == nomePesquisa?.Trim().ToLower().Replace(" ", ""))
                             {
