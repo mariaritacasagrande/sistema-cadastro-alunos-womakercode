@@ -122,10 +122,20 @@ class Program
                         Console.ReadKey();
                         break;
 
-                    case 3:
-                        Console.WriteLine("-> Executando: Exibir aprovados...");
-                        // Adicione sua lógica aqui
-                        break;
+                   case 3:
+                    Console.WriteLine("=== ALUNOS APROVADOS ===\n");
+                    int totalAprovados = 0;
+                                for (int i = 0; i < totalAlunos; i++)
+                                {
+                                    if (medias[i] >= 7)
+                                    {
+                                        Console.WriteLine($"{nomes[i]} - Média: {medias[i]:F1}");
+                                        totalAprovados++;
+                                    }
+                                }
+
+                                Console.WriteLine($"\nTotal: {totalAprovados} alunos");
+                                break;
 
                     case 4:
                         Console.WriteLine("-> Executando: Exibir média da turma...");
@@ -156,3 +166,4 @@ class Program
         } while (opcao != 0);
     }
 }
+
