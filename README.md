@@ -63,9 +63,8 @@ Deseja cadastrar mais um aluno? (S/N): N
 
 Cadastro finalizado! 1 alunos cadastrados.
 
-==============================
-       SISTEMA DE ALUNOS      
-==============================
+
+=== SISTEMA DE ALUNOS ===      
 
 1 - Listar alunos
 2 - Buscar aluno
@@ -73,7 +72,6 @@ Cadastro finalizado! 1 alunos cadastrados.
 4 - Exibir média da turma
 0 - Encerrar
 
-==============================
 Digite a opção desejada: 1
 
 === ALUNOS APROVADOS ===
