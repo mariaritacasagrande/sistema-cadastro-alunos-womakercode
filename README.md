@@ -1,6 +1,5 @@
 # Sistema de Cadastro de alunos - WomakersCode - SQUAD NINA DA HORA
 
-
 Sistema em C# para cadastrar e consultar informações de alunos, desenvolvido como desafio durante o curso da WoMakersCode.
 
 ## Funcionalidades
@@ -20,7 +19,6 @@ Sistema em C# para cadastrar e consultar informações de alunos, desenvolvido c
 
 ## Como executar
 
-
 ### Passos
 
 1. **Clone o repositório**
@@ -31,7 +29,6 @@ cd sistema-cadastro-alunos-womakercode
 dotnet run
 
 3. **Siga as instruções do menu**
-
 
 ## Exemplo de Uso
 
@@ -69,10 +66,8 @@ Idade: 20
 Média: 8,50
 -------------------------
 
-
-
 Este projeto é de uso educacional, desenvolvido durante o curso da WoMakersCode.
 
 ---
 
-Desenvolvido com ❤️ 
+Desenvolvido com ❤️
