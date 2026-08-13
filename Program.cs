@@ -92,8 +92,15 @@ class Program
                 switch (opcao)
                 {
                     case 1:
-                        Console.WriteLine("-> Executando: Listar alunos...");
-                        // Adicione sua lógica aqui
+                        Console.WriteLine("=== LISTA DE ALUNOS ===\n");
+
+                        for (int i = 0; i < totalAlunos; i++)
+                        {
+                            Console.WriteLine($"Nome: {nomes[i]}");
+                            Console.WriteLine($"Idade: {idades[i]}");
+                            Console.WriteLine($"Média: {medias[i]:F1}");
+                            Console.WriteLine("------------------------------");
+                        }
                         break;
 
                     case 2:
