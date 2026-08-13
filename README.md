@@ -58,13 +58,13 @@ Idade: 20
 Nota 1: 8
 Nota 2: 9
 Aluno cadastrado com sucesso! Média: 8,50
+-------------------------
 
 Deseja cadastrar mais um aluno? (S/N): N
 
 Cadastro finalizado! 1 alunos cadastrados.
 
-
-=== SISTEMA DE ALUNOS ===      
+=== SISTEMA DE CADASTRO DE ALUNOS ===
 
 1 - Listar alunos
 2 - Buscar aluno
@@ -72,20 +72,19 @@ Cadastro finalizado! 1 alunos cadastrados.
 4 - Exibir média da turma
 0 - Encerrar
 
-Digite a opção desejada: 1
+Escolha uma opção: 1
 
-=== ALUNOS APROVADOS ===
+=== LISTA DE ALUNOS ===
 
 Nome: Ana
 Idade: 20
 Média: 8,50
+-------------------------
 
----
 
-## Licença
 
 Este projeto é de uso educacional, desenvolvido durante o curso da WoMakersCode.
 
 ---
 
-Desenvolvido com dedicação durante o programa de formação da WoMakersCode.
+Desenvolvido com ❤️ 
