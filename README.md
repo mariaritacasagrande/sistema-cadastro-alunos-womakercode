@@ -1,15 +1,29 @@
-# Sistema de Cadastro de alunos - WomakersCode - SQUAD NINA DA HORA
+# Sistema de Cadastro de Alunos - WomakersCode - SQUAD NINA DA HORA
 
 Sistema em C# para cadastrar e consultar informações de alunos, desenvolvido como desafio durante o curso da WoMakersCode.
+
+---
+
+## Índice
+
+- [Funcionalidades](#funcionalidades)
+- [Tecnologias](#tecnologias)
+- [Como executar](#como-executar)
+- [Exemplo de Uso](#exemplo-de-uso)
+- [Licença](#licença)
+
+---
 
 ## Funcionalidades
 
 - Cadastrar até 10 alunos (Nome, Idade, Nota 1, Nota 2)
 - Listar todos os alunos cadastrados
 - Buscar aluno pelo nome
-- Exibir alunos aprovados (média ≥ 7)
+- Exibir alunos aprovados (média maior ou igual a 7)
 - Calcular e exibir média da turma
 - Menu interativo com loop até o usuário sair
+
+---
 
 ## Tecnologias
 
@@ -17,18 +31,22 @@ Sistema em C# para cadastrar e consultar informações de alunos, desenvolvido c
 - **Framework:** .NET 8.0
 - **IDE:** VS Code ou Visual Studio
 
+---
+
 ## Como executar
 
-### Passos
+**Clone o repositório**
 
-1. **Clone o repositório**
 git clone https://github.com/mariaritacasagrande/sistema-cadastro-alunos-womakercode.git
 cd sistema-cadastro-alunos-womakercode
 
-2. **Compile e execute**
+**Compile e execute**
+
 dotnet run
 
-3. **Siga as instruções do menu**
+**Siga as instruções do menu**
+
+---
 
 ## Exemplo de Uso
 
@@ -40,7 +58,6 @@ Idade: 20
 Nota 1: 8
 Nota 2: 9
 Aluno cadastrado com sucesso! Média: 8,50
--------------------------
 
 Deseja cadastrar mais um aluno? (S/N): N
 
@@ -64,10 +81,13 @@ Digite a opção desejada: 1
 Nome: Ana
 Idade: 20
 Média: 8,50
--------------------------
+
+---
+
+## Licença
 
 Este projeto é de uso educacional, desenvolvido durante o curso da WoMakersCode.
 
 ---
 
-Desenvolvido com ❤️
+Desenvolvido com dedicação durante o programa de formação da WoMakersCode.
